@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(20, 225, 201);
+}
+
+header {
+    background-color: #099d78;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+}
+
+main {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: aqua;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
